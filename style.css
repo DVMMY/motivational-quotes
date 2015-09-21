@@ -1,0 +1,40 @@
+* {
+	margin: 0;
+	padding: 0;
+  	text-align: center;
+}
+
+body {
+	height: 100%;
+	background-color: #E9E8E5 !important;
+}
+
+h1 {
+	padding-bottom: 20px;
+}
+
+.quoteSec {
+	height: 200px;
+	background-color: #fff;
+	padding: 0 20px;
+	margin: 30px auto;    
+    -webkit-box-shadow:0 1px 4px rgba(0, 0, 0, 0.3), 0 0 40px rgba(0, 0, 0, 0.1) inset;
+    -moz-box-shadow:0 1px 4px rgba(0, 0, 0, 0.3), 0 0 40px rgba(0, 0, 0, 0.1) inset;
+    box-shadow:0 1px 4px rgba(0, 0, 0, 0.3), 0 0 40px rgba(0, 0, 0, 0.1) inset;
+}
+
+#quote {
+	text-align: center;
+	position: relative;
+	top: 80px;
+	font-size: 20px;
+}
+
+#author {
+	font-size: 14px;
+}
+
+.btn {
+	margin: 20px 0;
+}
+
